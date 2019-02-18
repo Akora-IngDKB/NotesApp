@@ -1,5 +1,6 @@
 package com.akoraingdkb.notesapp;
 
+// The model class for the recycler view adapter
 class Note {
     private String title;
     private String firstLetter;

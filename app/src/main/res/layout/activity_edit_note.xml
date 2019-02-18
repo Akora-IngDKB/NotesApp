@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/edit_note_coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/colorPrimaryDark"
+    android:padding="10dp"
+    tools:context="com.akoraingdkb.notesapp.EditNoteActivity">
+
+    <!-- Add functionality like font size, font styles -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:fillViewport="true"
+        android:scrollbars="vertical">
+
+        <EditText
+            android:id="@+id/note_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top|start"
+            android:hint="@string/write_your_notes_here"
+            android:inputType="textMultiLine|textCapSentences"
+            android:padding="10dp"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+    </ScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

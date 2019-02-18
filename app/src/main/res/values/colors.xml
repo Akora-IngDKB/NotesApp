@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#00bb00</color>
+
+    <color name="colorAccentSmall">#009900</color>
+    <color name="colorAccentDark">#006600</color>
+
+    <color name="white">#fff</color>
+    <color name="pureWhite">#fff</color>
+    <color name="darkWhite">#aaa</color>
+    <color name="black">#111</color>
+    <color name="lightDark">#444</color>
+
+    <color name="controlHighlight">#DDD</color>
+    <color name="recycler_view_bg">#414141</color>
+</resources>

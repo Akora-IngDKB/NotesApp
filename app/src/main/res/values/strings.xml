@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="title_of_note">Title of Note</string>
+    <string name="new_note">New Note</string>
+    <string name="no_existing_notes">No existing notes. Please click on the \'Add\' button to add a new note</string>
+    <string name="title_collision_error_message">There\'s an existing Note with the same title</string>
+    <string name="invalid_title_error_message">Please provide a valid title</string>
+    <string name="menu_save">Save</string>
+    <string name="write_your_notes_here">Write your notes here…</string>
+    <string name="discard_changes">Discard changes</string>
+    <string name="new_note_activity">New Note</string>
+    <string name="disable_save_notice">
+        Save and Auto-Save functions have been disabled.\nHence changes will not be saved.\nPlease allow permission to use this feature.\n\nGo to Settings -> Apps -> Notes App -> Permissions
+    </string>
+    <string name="change_save_success">Changes saved successfully</string>
+    <string name="changes_discarded">Changes discarded</string>
+    <string name="alert_title_notice">Notice</string>
+    <string name="error_saving_file_message">Error saving file.\\nPlease try again.</string>
+    <string name="neutral_okay">OKAY</string>
+    <string name="positive_exit">EXIT</string>
+    <string name="positive_yes">YES</string>
+    <string name="negative_no">NO</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="snackbar_undo">UNDO</string>
+    <string name="toast_press_again">Press back again to exit</string>
+
+    <string name="pref_title_theme">Theme</string>
+    <string name="pref_theme_summ_night">Using Night Theme</string>
+    <string name="pref_title_about">About</string>
+    <string name="pref_title_about_...">About…</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings_activity">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search note…</string>
+    <string name="search_under_development">Search functionality is under development</string>
+    <string name="menu_export">Export As Text File</string>
+    <string name="menu_share">Share…</string>
+    <string name="title_of_file">Title of File</string>
+    <string name="export_activity">Export</string>
+    <string name="file_save_success_path"><![CDATA[File has been successfully exported to InternalStorage -> NotesApp ->]]></string>
+    <string name="view_exported_file">View exported file</string>
+    <string name="open_file">OPEN</string>
+    <string name="menu_share_app">Share this app…</string>
+    <string name="menu_help_feedback">Help and Feedback</string>
+    <string name="help_feedback_note">You can pass your comments, recommendations, problems and feature request through the following platforms</string>
+    <string name="help_feedback_activity">Help and Feedback</string>
+</resources>
